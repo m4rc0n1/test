@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html and css file for Test. I use here html and css tags. 
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/cavidsuleyman/Frog-Animation.git` <br/>
+> *STEP-1:* `https://github.com/m4rc0n1/test.git` <br/>
 > *STEP-2:*  enter the `Test` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
